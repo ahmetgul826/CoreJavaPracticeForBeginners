@@ -31,5 +31,6 @@ public class ChristmasTree {
             }
             System.out.println();
         }
+        System.out.println("HAPPY CHRISTMAS!");
     }
 }
